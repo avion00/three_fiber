@@ -24,7 +24,7 @@ const App = () => {
       </EffectComposer>
     </Canvas>
     <div className="w-full bg-zinc-900 py-3">
-      <h1 className="text-zinc-300 border-zinc-500  p-16 m-2 text-center">frontend okk is art and we coders were artista. we make to best fill</h1>
+      <h1 className="text-zinc-300 border-zinc-500  p-16 m-2 text-center">frontend ok we coders were artista. we make to best fill</h1>
     </div>
     </>
   );
